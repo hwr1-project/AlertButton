@@ -10,7 +10,7 @@
   <HighResolutionIconUrl DefaultValue="https://hwr1-project.github.io/AlertButton/background.png"/>
   <SupportUrl DefaultValue="https://www.contoso.com/help"/>
   <AppDomains>
-    <AppDomain>https://www.contoso.com</AppDomain>
+    <AppDomain>https://hwr1-project.github.io</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>
@@ -85,9 +85,9 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="background" DefaultValue="https://hwr1-project.github.io/AlertButton/background.png"/>
-        <bt:Image id="background" DefaultValue="https://hwr1-project.github.io/AlertButton/background.png"/>
-        <bt:Image id="background" DefaultValue="https://hwr1-project.github.io/AlertButton/background.png"/>
+        <bt:Image id="background16" DefaultValue="https://hwr1-project.github.io/AlertButton/background.png"/>
+        <bt:Image id="background32" DefaultValue="https://hwr1-project.github.io/AlertButton/background.png"/>
+        <bt:Image id="background80" DefaultValue="https://hwr1-project.github.io/AlertButton/background.png"/>
       </bt:Images>
       <bt:Urls>
         <bt:Url id="Commands.Url" DefaultValue="https://hwr1-project.github.io/AlertButton/commands.js"/>
